@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Maximilian;Alvim+de+Faria"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Saavedra;Jonard+Lora"/>
   </a>
 </h1>
 
@@ -11,15 +11,6 @@
 
 <br/>
 
-<div align="center">
-  
-  💼 Currently Working on | [**Drone Swarm Search Algorithm**]() | **[NoPixel Minigames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0)** | **[INDA Manager](https://github.com/MaximilianAdF/INDA-manager)** |
-  
-  📚 Currently Studying M.Sc. Computer Science @<a href="https://github.com/KTH">KTH</a>
-  
-  🌱 Currently Learning **Haskell** & **Golang**
-
-</div>
 
 <div align="center">
   <a href="mailto:maximilian.adf@gmail.com" target="_blank">
